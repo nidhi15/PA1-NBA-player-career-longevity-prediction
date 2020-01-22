@@ -1,6 +1,4 @@
-# PredictiveAnalytics1
-
-Prediction of NBA player 5-year career longevity with logistic regression
+# Prediction of NBA player 5-year career longevity with logistic regression
 
 Implemented a basic classification model using logistic regression. 
 The provided dataset "nba_logreg" contains statistics for new NBA players. 
