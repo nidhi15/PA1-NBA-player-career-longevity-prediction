@@ -1,8 +1,4 @@
-# Northeastern University - Fall 2019 
-# ALY6020 - Predictive Analytics
-# Marco Montes de Oca
-
-# Assignment 1 - Submitted By Nidhi Shah
+#Prediction of NBA player 5-year career longevity with logistic regression
 
 # Install the required packages and load the libraries
 require(data.table)
